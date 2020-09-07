@@ -26,4 +26,3 @@ Vídeo demo no **[YouTube](https://www.youtube.com/watch?v=FpOpLk6nRvc&feature=y
 ## 👩🏻‍💻 Repositórios
 
 - [WEB](https://github.com/Mitsu325/leia_comigo)
-- [APP]()
