@@ -19,6 +19,7 @@ A aplicação busca maior proximidade e interação entre pais e filhos por meio
 - Exploração da imaginação.
 - Criação de hábito semanal de leitura.
 
+**[Deploy](leiacomigo.vercel.app/)**
 Vídeo demo no **[YouTube](https://www.youtube.com/watch?v=FpOpLk6nRvc&feature=youtu.be&ab_channel=KarlaCorr%C3%AAa)**
 
 <br>
