@@ -25,4 +25,5 @@ Vídeo demo no **[YouTube](https://www.youtube.com/watch?v=FpOpLk6nRvc&feature=y
 
 ## 👩🏻‍💻 Repositórios
 
-- [WEB](https://github.com/Mitsu325/leia_comigo)
+- **[WEB](https://github.com/Mitsu325/leia_comigo)**
+- **[BACK-END](https://github.com/karlacorrea/Backend_leiacomigo)**
